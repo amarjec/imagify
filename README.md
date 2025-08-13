@@ -108,5 +108,5 @@ The application should now be running on `http://localhost:5173`.
 
 ## 📧 Contact
 
-  - **Amar Agrawal** - [@amarjec]
-  - **Project Link:** [https://github.com/amarjec/imagify]
+  - **Amar Agrawal** - @amarjec
+  - **Project Link:** https://imagify-frontend-gjzn.onrender.com/
